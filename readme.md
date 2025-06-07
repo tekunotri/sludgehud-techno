@@ -9,8 +9,13 @@ i will not update this :steamhappy:
 features
 
 fixed hudhealthaccount
+
 clear killfeed
+
 works in minmode 0
-cleaner menus
+
+cleaner spy and engie build menus (stolen)
+
 bullshit moved to fit me since i play 4:3
+
 schizoid editing at 5am
