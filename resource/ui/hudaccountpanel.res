@@ -72,3 +72,4 @@
 		"font_minmode"								"tahoma8-dropshadow"
 		"fgcolor"   								"White"
 	}
+}

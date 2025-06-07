@@ -199,11 +199,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"0"	[$WIN32]
+		"xpos"					"1"	[$WIN32]
 		"ypos"					"0"	[$WIN32]
-		"ypos_disabled"			"0"	[$WIN32]
-		"xpos"					"0"	[disabled]
-		"ypos"					"0"	[disabled]
 		"wide"					"f0"
 		"tall"  				"f0"
 		"visible" 				"1"
@@ -980,8 +977,8 @@
 		"fieldName" 	"HudMenuEngyBuild"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-225"
-		"ypos"			"c-55"
+		"xpos"			"c-120"
+		"ypos"			"c+50"
 		"wide"			"450"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -1016,15 +1013,12 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-235"
-		"ypos"			"c-52"
-		"ypos_disabled"	"c-42"
-		"ypos_disabled"	"c-42"
+		"xpos"			"c-189"
+		"ypos"			"c-25"
 		"wide"			"470"
-		"tall"			"200"	[$WIN32]
-		"tall"			"180"	[disabled]
+		"tall"			"200"	
 		"PaintBackgroundType"	"0"
-	}	
+	}
 	
 	HudDemomanPipes
 	{
