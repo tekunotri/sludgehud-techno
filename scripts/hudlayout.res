@@ -490,7 +490,7 @@
 		"LocalPlayerColor"	"HUDWhite"
 
 		"BaseBackgroundColor"	"46 43 42 0"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 0"	[$WIN32]
+		"LocalBackgroundColor"	"0 0 0 127"	[$WIN32]
 	}
 
 	HudVehicle
@@ -844,8 +844,8 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-150"
-		"ypos"					"215"
+		"xpos"					"c-100"
+		"ypos"					"320"
 		"wide"					"300"
 		"tall"					"300"
 		"zpos"					"4"
