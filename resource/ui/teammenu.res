@@ -73,7 +73,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldname"									"BlueShadow"
-		"xpos"										"-1"
+		"xpos"										"0"
 		"ypos"										"-1"
 		"zpos"										"0"
 		"wide"										"70"
@@ -87,6 +87,9 @@
 		"proportionaltoparent"						"1"
 		"FgColor"									"Black"
 		"pin_to_sibling"							"BlueButton"
+		"pin_to_sibling"							"BlueButton"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 	"BlueShortKey"
 	{

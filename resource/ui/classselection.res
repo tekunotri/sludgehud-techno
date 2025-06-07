@@ -45,12 +45,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -80,12 +77,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override"					"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override"					"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -117,12 +111,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -154,12 +145,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -191,12 +179,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -228,12 +213,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -265,12 +247,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -302,12 +281,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -339,12 +315,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -376,12 +349,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 		
 		"paintbackground"							"0"
 		
@@ -411,12 +381,9 @@
 		
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
-		"armedFgColor_override" 					"5 71 42 255
-"
-		"depressedFgColor_override" 				"5 71 42 255
-"
-		"selectedFgColor_override" 					"5 71 42 255
-"
+		"armedFgColor_override" 					"evergreen1"
+		"depressedFgColor_override" 				"evergreen1"
+		"selectedFgColor_override" 					"evergreen1"
 
 		"paintbackground"							"0"
 		

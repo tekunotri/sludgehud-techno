@@ -6,11 +6,11 @@ hud11 part 2
 
 i will not update this :steamhappy:
 
-features
+features:
 
-fixed hudhealthaccount
-clear killfeed
-works in minmode 0
-cleaner menus
-bullshit moved to fit me since i play 4:3
-schizoid editing at 5am
+* fixed hudhealthaccount
+* clear killfeed
+* works in minmode 0
+* cleaner menus
+* bullshit moved to fit me since i play 4:3
+* schizoid editing at 5am

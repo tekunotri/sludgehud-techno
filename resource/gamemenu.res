@@ -62,7 +62,7 @@
 	"settinations"
     {
         "ControlName"   "Button"
-		"Command"		"OpenOptionsDialog"
+		"command"		"OpenOptionsDialog"
 		"ypos"			"cs-0.6"
 		"xpos"			"cs-1.3"
 		"wide"			"50"

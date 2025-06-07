@@ -53,6 +53,10 @@ Scheme
 		"BrightYellow"		"251 235 0 255"
 		"evergreen1"		"5 71 42 255"
 		"evergreen2"		"2 21 13 255"
+		"evergreen3"		"11 129 78 255"
+		"everred1"			"71 5 34 255"
+		"everred2"			"129 11 62 255"
+
 		//"Black"				"0 0 0 255"
 		//Changed black to a NTSC safe color
 		"GreenSolid"		 "76 107 34 255"
@@ -1165,7 +1169,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"10"
+				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
 			}

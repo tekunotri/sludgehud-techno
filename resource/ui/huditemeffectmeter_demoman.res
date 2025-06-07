@@ -41,7 +41,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"2252
+		"xpos"					"2252"
 		"ypos"					"22"
 		"zpos"					"2"
 		"wide"					"41"
@@ -55,7 +55,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"tahoma8"
 	}
 
 	"ItemEffectMeter"
@@ -85,7 +85,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"25"
-		"ypos"					"22"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -97,6 +97,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"Tahoma10-dropshadow"
+		"fgcolor_override"		"HudWhite"
 	}
 }

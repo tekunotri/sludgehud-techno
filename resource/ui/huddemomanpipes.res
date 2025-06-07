@@ -48,14 +48,13 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
 		"font"					"Default"
-		"xpos"					"cs-0.5"
+		"xpos"					"35"
 		"ypos"					"23"
 		"ypos_minmode"			"10"
 		"xpos_minmode"			"24"
 		"zpos"					"2"
-		"wide"					"40"
-		"wide_minmode"			"39"
-		"tall"					"5"				
+		"wide"					"30"
+		"tall"					"4"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -142,9 +141,9 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMediumBig"
+			"font"			"tahoma8"
+			"font_minmode"	"tahoma8"
+			"font_lodef"	"tahoma8"
 			"fgcolor"		"black"
 		}		
 	}
@@ -203,6 +202,7 @@
 			"font"			"tahoma8"
 			"font_minmode"	"tahoma8"
 			"font_lodef"	"tahoma8"
+			"fgcolor"		"HudWhite"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -228,7 +228,7 @@
 			"font"			"tahoma8"
 			"font_minmode"	"tahoma8"
 			"font_lodef"	"tahoma8"
-			"fgcolor"		"white"
+			"fgcolor"		"black"
 		}			
 	}				
 }

@@ -76,14 +76,10 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r443"	[$WIN32]
-		"xpos_disabled"	"r100"	[$WIN32]
-		"ypos"			"245"	[$WIN32]
-		"ypos_disabled"	"r34"	[$WIN32]
-		"xpos"			"r174"	[disabled]
-		"ypos"			"r90"	[disabled]
-		"wide"			"300"
-		"tall"			"300"
+		"xpos"			"0"	
+		"ypos"			"0"	
+		"wide"			"f0"
+		"tall"			"f0"
 	}
 	
 	HudDemomanCharge
@@ -91,18 +87,13 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r447"	[$WIN32]
-		"xpos_disabled"	"r52"	[$WIN32]
-		"ypos"			"r220"	[$WIN32]
-		"ypos_disabled"	"r40"	[$WIN32]
-		"xpos"			"r112"	[disabled]
-		"ypos"			"r45"	[disabled]
+		"xpos"			"cs-0.5"	[$WIN32]
+		"ypos"			"c60"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"40"
-		"wide_disabled"	"50"
-		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"wide"			"30"
+		"tall"			"4"
+		"MeterFG"		"blank"
+		"MeterBG"		"Blank"
 	}	
 
 	HudBowCharge
@@ -1025,12 +1016,8 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r470"	[$WIN32]
-		"xpos_disabled"	"r110"	[$WIN32]
+		"xpos"			"cs-0.5"	[$WIN32]
 		"ypos"			"r225"	[$WIN32]
-		"ypos_disabled"	"r30"	[$WIN32]
-		"xpos"			"r194"	[disabled]
-		"ypos"			"r74"	[disabled]
 		"wide"			"100"
 		"tall"			"50"
 	}	
